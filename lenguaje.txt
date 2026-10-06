@@ -1,1 +1,1 @@
-Lenguaje favorito: Python
+Lenguaje favorito: python 3.12
